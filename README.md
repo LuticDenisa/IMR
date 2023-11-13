@@ -9,3 +9,6 @@ Main Home: <img width="369" alt="Main_Home" src="https://github.com/LuticDenisa/
 Greenhouse: <img width="369" alt="Greenhouse" src="https://github.com/LuticDenisa/IMR/assets/100298908/0df57aca-12eb-46de-899d-632e07aab3e3">
 
 Barn: <img width="369" alt="Barn" src="https://github.com/LuticDenisa/IMR/assets/100298908/d461456d-e3e4-414b-b84a-2a9a6f0a574e">
+
+Water Well: <img width="215" alt="Screenshot 2023-11-14 at 00 53 10" src="https://github.com/LuticDenisa/IMR/assets/100189134/f70cc630-84ec-4fc8-8db0-d4a943840545">
+
